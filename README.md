@@ -1,1 +1,1 @@
-# network_crn
+# Common Random Numbers for Stochastic Network-Based Transmission Dynamic Models
